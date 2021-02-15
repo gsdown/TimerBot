@@ -10,7 +10,6 @@ namespace TimerBot
 {
     class Program
     {
-        //public const string token = "ODA3NDk5ODgwNzM3NDA2OTc2.YB443g.BbtIqUyVBhuG6E-wXrbt3KGo_hI";      // 봇 토큰
         public static string[] token;                // 토큰
         public static string[] prefix;               // 구분자
 
